@@ -1,2 +1,2 @@
 # sdl-tutorial
-sdk展示bmp以及展示yuv视频
+sdl展示bmp以及展示yuv视频
